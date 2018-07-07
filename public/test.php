@@ -78,6 +78,5 @@ $application->run();
 if ($dev)
 {
     Debugger::debugPrintTranslateds();
-
-    var_dump(G11n::getEvents());
+    Debugger::debugPrintEvents();
 }
