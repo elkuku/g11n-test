@@ -19,7 +19,7 @@
   "scripts": {
     "tpl": " ./vendor/bin/g11nutil make-t . public --template-path=translations/template.pot --ansi",
     "tpl-js": " ./vendor/bin/g11nutil make-t ./assets js --type=js --template-path=translations/template.js.pot --ansi",
-    "lang": "./vendor/bin/g11nutil make-l translations mytest de-DE --template-path=translations/template.pot",
-    "lang-js": "./vendor/bin/g11nutil make-l translations mytest.js de-DE --template-path=translations/template.js.pot"
+    "lang": "./vendor/bin/g11nutil make-l translations mytest de-DE --template-path=translations/template.pot --ansi",
+    "lang-js": "./vendor/bin/g11nutil make-l translations mytest.js de-DE --template-path=translations/template.js.pot --ansi"
   }
 }
