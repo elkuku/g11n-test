@@ -1,0 +1,16 @@
+{
+  "name": "g11ntest",
+  "version": "1.0.0",
+  "description": "aja",
+  "main": "index.js",
+  "repository": "none",
+  "dependencies": {
+    "g11n-js": "https://github.com/elkuku/g11n-js/tarball/master"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
