@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Package-Name
+# This file is distributed under the same license as the Package-Name package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package-Name 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-07 10:45-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: assets/js/g11ntest.js:1
+msgid "Hello test"
+msgstr ""
+
+#: assets/js/g11ntest.js:5
+msgid "Hello %param% test"
+msgstr ""
+
+#: assets/js/g11ntest.js:11
+#, python-format
+msgid "There is one monkey in the box."
+msgid_plural "There are %d monkeys in the box."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/js/g11ntest.js:20
+msgid "There is one monkey in %param% town."
+msgid_plural "There are %d monkeys in %param% town."
+msgstr[0] ""
+msgstr[1] ""

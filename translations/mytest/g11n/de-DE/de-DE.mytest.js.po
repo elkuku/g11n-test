@@ -1,0 +1,39 @@
+# Language de-DE translations for Package-Name package.
+# Copyright (C) 2018 Package-Name
+# This file is distributed under the same license as the Package-Name package.
+# Der Tester <test@test-virtualbox>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Package-Name 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-07 10:45-0500\n"
+"PO-Revision-Date: 2018-07-07 10:44-0500\n"
+"Last-Translator: Der Tester <test@test-virtualbox>\n"
+"Language-Team: Language de-DE\n"
+"Language: de-DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: assets/js/g11ntest.js:1
+msgid "Hello test"
+msgstr "Hallo Test"
+
+#: assets/js/g11ntest.js:5
+msgid "Hello %param% test"
+msgstr "Hallo %param% Test"
+
+#: assets/js/g11ntest.js:11
+#, python-format
+msgid "There is one monkey in the box."
+msgid_plural "There are %d monkeys in the box."
+msgstr[0] "Es ist ein Affe in der Schachtel."
+msgstr[1] "Es sind %d Affen in der Schachtel."
+
+#: assets/js/g11ntest.js:20
+msgid "There is one monkey in %param% town."
+msgid_plural "There are %d monkeys in %param% town."
+msgstr[0] "Es ist ein Affe in der %param% Stadt."
+msgstr[1] "Es sind %d Affen in der %param% Stadt."
